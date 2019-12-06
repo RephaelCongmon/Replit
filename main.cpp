@@ -38,7 +38,7 @@ int main() {
 
   // Write a condition that checks if x is less than y
 
-  if (x == y && y > z){
+  if (x == y || y > z){
     cout << "Yo!" << endl;
   }
   else {
