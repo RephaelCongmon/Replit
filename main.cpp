@@ -1,30 +1,9 @@
-#include <iostream> // a library: cout, cin
-#include <cstdlib>
-#include <ctime>
-
+#include <iostream>
 using namespace std;
 
-//SCOPE
 
-int main() {
+// Functions lesson
 
-  //Declaring a variable means data type, name of variable
+int main(){
 
-
-
-
-  //   Declarator Condition Operator
-
-  int i = 0;
-  for (i = 0; i < 3; i++){
-    cout << i << endl;
-  }
-  // here
-
-  cout << i << endl;
-  return 0;
 }
-
-
-
-
